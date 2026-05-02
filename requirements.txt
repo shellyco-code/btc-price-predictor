@@ -1,0 +1,7 @@
+arch
+numpy
+pandas
+scipy
+matplotlib
+requests
+tqdm
