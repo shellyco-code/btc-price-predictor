@@ -1,3 +1,4 @@
+streamlit
 arch
 numpy
 pandas
